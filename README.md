@@ -19,5 +19,4 @@ University of Aveiro | 2023 – Present
 
 ## 📫 Contact
 - Email: catarina.rabaca@ua.pt  
-- Phone: +351 931 942 779  
 - GitHub: [catarina-rabaca](https://github.com/catarina-rabaca)
