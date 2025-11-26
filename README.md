@@ -35,7 +35,7 @@ Computer Engineering student with a focus on practical problem-solving in embedd
 
 ---
 
-## 🚀 Projects & Experience
+## 🏆 Awards
 
 - **Sitestar Team Winner** (2023) – Sustainable technology competition
 - **Egistar Team** – Website development for sustainability initiatives
