@@ -24,8 +24,6 @@ Computer Engineering student with a focus on practical problem-solving in embedd
 
 **Tools & Platforms:** Git · GitHub · Linux · GNS3 · Quartus Prime · Visual Paradigm · LaTeX
 
-**Specializations:** Embedded Systems · IoT Development · Communication Protocols · Network Configuration
-
 ---
 
 ## 🎓 Education
