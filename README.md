@@ -40,15 +40,6 @@ Computer Engineering student with a focus on practical problem-solving in embedd
 - **Sitestar Team Winner** (2023) – Sustainable technology competition
 - **Egistar Team** – Website development for sustainability initiatives
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=violet&hide_border=true&bg_color=1a1a2e&title_color=a855f7&text_color=e0e0e0)
-
-</div>
 
 ---
 
