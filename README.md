@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👩‍💻 Catarina Monteiro Rabaça
 
-<!--
-**catarina-rabaca/catarina-rabaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering and Informatics student at the University of Aveiro**  
+Passionate about **embedded systems, communication networks, and IoT**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Programming:** Python · C/C++ · Java · MATLAB · HTML/CSS  
+- **Tools & Platforms:** Git · GitHub · Linux · GNS3 · Quartus Prime · Visual Paradigm · LaTeX  
+
+---
+
+## 🎓 Education
+**Bachelor in Computer Engineering and Informatics**  
+University of Aveiro | 2023 – Present  
+
+---
+
+## 📫 Contact
+- Email: catarina.rabaca@ua.pt  
+- Phone: +351 931 942 779  
+- GitHub: [catarina-rabaca](https://github.com/catarina-rabaca)
