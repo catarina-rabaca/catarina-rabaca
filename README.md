@@ -18,5 +18,4 @@ University of Aveiro | 2023 – Present
 ---
 
 ## 📫 Contact
-- Email: catarina.rabaca@ua.pt  
-- GitHub: [catarina-rabaca](https://github.com/catarina-rabaca)
+- Email: catarina.rabaca@ua.pt 
