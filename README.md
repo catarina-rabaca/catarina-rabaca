@@ -26,13 +26,13 @@ Computer Engineering student with a focus on practical problem-solving in embedd
 
 ---
 
-##  Education
+## Education
 
-**Bachelor in Computer Engineering and Informatics**  
-*University of Aveiro* | 2023 – 2026
-
-**Bachelor in Computer Engineering and Informatics** 
+**Master in Computer and Telematics Engineering**<br>
 *University of Aveiro* | 2026 – Present
+
+**Bachelor in Computer Engineering and Informatics**<br>
+*University of Aveiro* | 2023 – 2026
 
 ---
 
