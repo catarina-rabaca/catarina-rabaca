@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👩‍💻 Catarina Monteiro Rabaça
+#  Catarina Monteiro Rabaça
 
 ### Computer Engineering & Informatics Student
 
@@ -12,13 +12,13 @@ I'm passionate about **embedded systems**, **IoT**, and **communication networks
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 Computer Engineering student with a focus on practical problem-solving in embedded systems and IoT technologies. I thrive on tackling real-world challenges that bridge hardware and software, with a particular interest in designing efficient and scalable connected solutions.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Languages:** Python · C/C++ · Java · MATLAB · HTML/CSS
 
@@ -26,14 +26,14 @@ Computer Engineering student with a focus on practical problem-solving in embedd
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Bachelor in Computer Engineering and Informatics**  
-*University of Aveiro* | 2023 – Present
+*University of Aveiro* | 2023 – 2026
 
 ---
 
-## 🏆 Awards
+##  Awards
 
 - **Sitestar Team Winner** (2023) – Sustainable technology competition
 - **Egistar Team** – Website development for sustainability initiatives
@@ -41,7 +41,7 @@ Computer Engineering student with a focus on practical problem-solving in embedd
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 - **Email:** [catarina.rabaca@ua.pt](mailto:catarina.rabaca@ua.pt)
 
