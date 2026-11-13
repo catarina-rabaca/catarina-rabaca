@@ -30,6 +30,7 @@ Computer Engineering student with a focus on practical problem-solving in embedd
 
 **Bachelor in Computer Engineering and Informatics**  
 *University of Aveiro* | 2023 – 2026
+
 **Bachelor in Computer Engineering and Informatics** 
 *University of Aveiro* | 2026 – Present
 
